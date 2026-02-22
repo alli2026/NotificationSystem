@@ -12,12 +12,7 @@ Quick Start:
 4. Click Run in your IDE.
 
 The console should print these messages: 
--Sending Email: This is an email notification.
--Notification medium changed.
--Sending SMS: This is an SMS notification.
--Message Log:
--This is an email notification.
--This is an SMS notification.
+Sending Email: This is an email notification, Notification medium changed,Sending SMS: This is an SMS notification,Message Log: This is an email notification, This is an SMS notification.
 
 5. Download a copy of the folder: P5TheWhatsAppMaintenanceEnhancement.
 6. Open the folder: P5TheWhatsAppMaintenanceEnhancement
@@ -25,14 +20,6 @@ The console should print these messages:
 8. Click Run in your IDE.
 
 The console should print these messages: 
--Sending Email: This is an email notification.
--Notification medium changed.
--Sending SMS: This is an SMS notification.
--Notification medium changed.
--[WhatsApp] Sending message: This is a WhatsApp notification.
--Message Log:
--This is an email notification.
--This is an SMS notification.
--This is a WhatsApp notification.
+Sending Email: This is an email notification, Notification medium changed, Sending SMS: This is an SMS notification, Notification medium changed, [WhatsApp] Sending message: This is a WhatsApp notification, Message Log: This is an email notification, This is an SMS notification, This is a WhatsApp notification.
 
 Prerequisites: MacOS, Windows, Linux, or any other OS that supports Java. Java JDK 17+ installed or any Java IDE.  
