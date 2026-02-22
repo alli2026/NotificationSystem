@@ -3,7 +3,7 @@ Testing Suite:
 This project does not use a separate unit test framework. This project is tested by running the main classes for each project and checking the console output.  
 The steps below explain exactly how another developer can verify that the system works.
 
-No external libraries are required. Java JDK 17+ needed or a Java IDE. More details on Quick Start are in the README.md file.
+No external libraries are required. Java JDK 17+ needed or a Java IDE. More details can be found in the README.md file.
 
 Test options for project 4:
 1. Download P4NotificationSystem from the repository.
