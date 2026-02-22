@@ -36,3 +36,8 @@ This is an SMS notification,
 This is a WhatsApp notification
 
 Prerequisites: MacOS, Windows, Linux, or any other OS that supports Java. Java JDK 17+ installed or any Java IDE.  
+
+Dependency Management: No external dependencies or external libraries required. Java JDK 17+ required.
+
+Documentation (Architecure Overview): This project uses the Strategy design pattern. The NotificationMedium interface defines how notifications are sent, and each concrete class provides it's own implementation. The AlertSystem class uses composition by holding a NotificationMedium object instead of inheriting from it. This allows the notification method to be changed at runtime without modifying the AlertSystem class. This design supports the Open–Closed Principle, allowing new notification mediums to be added by creating new classes without modifying the existing system.
+
