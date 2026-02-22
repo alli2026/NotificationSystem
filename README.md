@@ -16,7 +16,7 @@ Quick Start:
 7. Open 'NotificationSystemMain.java'.
 8. Click Run in your IDE.
 
-More details on how to run the project can be found in TestingSuite.md.
+More details on how to run the project can be found in the tests/ directory.
 
 Prerequisites: MacOS, Windows, Linux, or any other OS that supports Java. Java JDK 17+ installed or any Java IDE.  
 
